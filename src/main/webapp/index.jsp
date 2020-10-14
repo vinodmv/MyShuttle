@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>MyShuttle Login1</title>
+    <title>MyShuttle Login2</title>
     <link rel="shortcut icon" type="image/ico" href="favicon.ico" />
     <link rel="stylesheet" type="text/css" href="App/Themes/Lumen/css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="App/Modules/Core/Css/core.css">
